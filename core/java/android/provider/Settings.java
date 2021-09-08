@@ -6201,6 +6201,12 @@ public final class Settings {
         public static final String CLOCK_SHOW_STATUS_AREA = "clock_show_status_area";
 
         /**
+         * Whether to change the transparency of the notifications
+         * @hide
+         */
+        public static final String NOTIFICATION_BG_ALPHA = "notification_bg_alpha";
+
+        /**
          * Whether to change the transparency of the power menu
          * @hide
          */
